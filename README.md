@@ -1,2 +1,2 @@
 # belajar_NodeJs
-belajar NodeJs ampe bisa
+belajar *NodeJs ampe bisa
